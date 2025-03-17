@@ -1,0 +1,1955 @@
+[
+  {
+    "sentence_id": 1,
+    "sentence": "كيف ساهمت السياسة الأميركية المستندة إلى رؤية سعودية في سوء فهم أمريكا لليمن وتعثرها هناك ؟ \" ليس لدى الولايات المتحدة سياسة تجاه اليمن \" ولكن هذا ليس مفاجئا : الولايات المتحدة لم يكن لديها سياسة خاصة تجاه اليمن قط .",
+    "words": [
+      {
+        "word_id": 1,
+        "word": "كيف",
+        "target_sense": 303048554
+      },
+      {
+        "word_id": 2,
+        "word": "ساهمت",
+        "target_sense": 303026925
+      },
+      {
+        "word_id": 3,
+        "word": "السياسة",
+        "target_sense": 303027139
+      },
+      {
+        "word_id": 4,
+        "word": "الأميركية",
+        "target_sense": 302004373
+      },
+      {
+        "word_id": 5,
+        "word": "المستندة",
+        "target_sense": 302053377
+      },
+      {
+        "word_id": 6,
+        "word": "إلى",
+        "target_sense": 303002297
+      },
+      {
+        "word_id": 7,
+        "word": "رؤية",
+        "target_sense": 303019566
+      },
+      {
+        "word_id": 8,
+        "word": "سعودية",
+        "target_sense": 302032971
+      },
+      {
+        "word_id": 9,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 10,
+        "word": "أمريكا",
+        "target_sense": 2023227683
+      },
+      {
+        "word_id": 11,
+        "word": "لليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 12,
+        "word": "وتعثرها",
+        "target_sense": 302014889
+      },
+      {
+        "word_id": 13,
+        "word": "هناك",
+        "target_sense": 303058846
+      },
+      {
+        "word_id": 14,
+        "word": "ليس",
+        "target_sense": 303050523
+      },
+      {
+        "word_id": 15,
+        "word": "لدى",
+        "target_sense": 303049211
+      },
+      {
+        "word_id": 16,
+        "word": "سياسة",
+        "target_sense": 303027139
+      },
+      {
+        "word_id": 17,
+        "word": "تجاه",
+        "target_sense": 303059857
+      },
+      {
+        "word_id": 18,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 19,
+        "word": "ولكن",
+        "target_sense": 303048729
+      },
+      {
+        "word_id": 20,
+        "word": "هذا",
+        "target_sense": 303018630
+      },
+      {
+        "word_id": 21,
+        "word": "ليس",
+        "target_sense": 303050523
+      },
+      {
+        "word_id": 22,
+        "word": "مفاجئا",
+        "target_sense": 302055177
+      },
+      {
+        "word_id": 23,
+        "word": "لم",
+        "target_sense": 303049989
+      },
+      {
+        "word_id": 24,
+        "word": "يكن",
+        "target_sense": 303048415
+      },
+      {
+        "word_id": 25,
+        "word": "لديها",
+        "target_sense": 303049211
+      },
+      {
+        "word_id": 26,
+        "word": "سياسة",
+        "target_sense": 303027139
+      },
+      {
+        "word_id": 27,
+        "word": "خاصة",
+        "target_sense": 303014765
+      },
+      {
+        "word_id": 28,
+        "word": "تجاه",
+        "target_sense": 303059857
+      },
+      {
+        "word_id": 29,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 30,
+        "word": "قط",
+        "target_sense": 303044952
+      }
+    ]
+  },
+  {
+    "sentence_id": 2,
+    "sentence": "ما لديها – وما كان لديها – هو سياسة تجاه السعودية تملي عليها أفعالها في اليمن .",
+    "words": [
+      {
+        "word_id": 31,
+        "word": "ما",
+        "target_sense": 303050635
+      },
+      {
+        "word_id": 32,
+        "word": "لديها",
+        "target_sense": 303049211
+      },
+      {
+        "word_id": 33,
+        "word": "لديها",
+        "target_sense": 303049211
+      },
+      {
+        "word_id": 34,
+        "word": "هو",
+        "target_sense": 303058905
+      },
+      {
+        "word_id": 35,
+        "word": "سياسة",
+        "target_sense": 303027139
+      },
+      {
+        "word_id": 36,
+        "word": "تجاه",
+        "target_sense": 303059857
+      },
+      {
+        "word_id": 37,
+        "word": "السعودية",
+        "target_sense": 302032972
+      },
+      {
+        "word_id": 38,
+        "word": "تملي",
+        "target_sense": 303052187
+      },
+      {
+        "word_id": 39,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 40,
+        "word": "اليمن",
+        "target_sense": 302064473
+      }
+    ]
+  },
+  {
+    "sentence_id": 3,
+    "sentence": "بالنسبة للولايات المتحدة ، اليمن بلد ملحق ، وبالتالي يمكن الاستعانة بوكلاء خارجيين للتعامل معه كونه بلد صغير كما أنه ليس مهما بما فيه الكفاية .",
+    "words": [
+      {
+        "word_id": 41,
+        "word": "بالنسبة",
+        "target_sense": 303054093
+      },
+      {
+        "word_id": 42,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 43,
+        "word": "بلد",
+        "target_sense": 303004580
+      },
+      {
+        "word_id": 44,
+        "word": "ملحق",
+        "target_sense": 303049085
+      },
+      {
+        "word_id": 45,
+        "word": "وبالتالي",
+        "target_sense": 303006037
+      },
+      {
+        "word_id": 46,
+        "word": "يمكن",
+        "target_sense": 303051915
+      },
+      {
+        "word_id": 47,
+        "word": "الاستعانة",
+        "target_sense": 303038337
+      },
+      {
+        "word_id": 48,
+        "word": "بوكلاء",
+        "target_sense": 303062170
+      },
+      {
+        "word_id": 49,
+        "word": "خارجيين",
+        "target_sense": 303014118
+      },
+      {
+        "word_id": 50,
+        "word": "للتعامل",
+        "target_sense": 302014826
+      },
+      {
+        "word_id": 51,
+        "word": "معه",
+        "target_sense": 303051794
+      },
+      {
+        "word_id": 52,
+        "word": "كونه",
+        "target_sense": 302048993
+      },
+      {
+        "word_id": 53,
+        "word": "بلد",
+        "target_sense": 303004580
+      },
+      {
+        "word_id": 54,
+        "word": "صغير",
+        "target_sense": 303031516
+      },
+      {
+        "word_id": 55,
+        "word": "ليس",
+        "target_sense": 303050523
+      },
+      {
+        "word_id": 56,
+        "word": "مهما",
+        "target_sense": 303058781
+      },
+      {
+        "word_id": 57,
+        "word": "الكفاية",
+        "target_sense": 303047784
+      }
+    ]
+  },
+  {
+    "sentence_id": 4,
+    "sentence": "ولكن طبعاً ، من وقت لآخر ، هناك لحظات مأزومة تتطلب اهتمامًا أكثر من صناع السياسات في الولايات المتحدة ، \" فمثلا ، بعد هجمات 11 سبتمبر 2001 ، كان ينظر إلى اليمن في المقام الأول على أنه مشكلة تتعلق بمكافحة الإرهاب ، وبالتالي بحاجة إلى حل .",
+    "words": [
+      {
+        "word_id": 58,
+        "word": "ولكن",
+        "target_sense": 303048729
+      },
+      {
+        "word_id": 59,
+        "word": "طبعاً",
+        "target_sense": 303033676
+      },
+      {
+        "word_id": 60,
+        "word": "من",
+        "target_sense": 303052204
+      },
+      {
+        "word_id": 61,
+        "word": "وقت",
+        "target_sense": 303061864
+      },
+      {
+        "word_id": 62,
+        "word": "لآخر",
+        "target_sense": 303000498
+      },
+      {
+        "word_id": 63,
+        "word": "هناك",
+        "target_sense": 303058846
+      },
+      {
+        "word_id": 64,
+        "word": "لحظات",
+        "target_sense": 303049031
+      },
+      {
+        "word_id": 65,
+        "word": "مأزومة",
+        "target_sense": 2023228040
+      },
+      {
+        "word_id": 66,
+        "word": "تتطلب",
+        "target_sense": 303034202
+      },
+      {
+        "word_id": 67,
+        "word": "اهتمامًا",
+        "target_sense": 303058775
+      },
+      {
+        "word_id": 68,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 69,
+        "word": "فمثلا",
+        "target_sense": 303050808
+      },
+      {
+        "word_id": 70,
+        "word": "بعد",
+        "target_sense": 303004261
+      },
+      {
+        "word_id": 71,
+        "word": "هجمات",
+        "target_sense": 303057556
+      },
+      {
+        "word_id": 72,
+        "word": "سبتمبر",
+        "target_sense": 303024323
+      },
+      {
+        "word_id": 73,
+        "word": "كان",
+        "target_sense": 303048415
+      },
+      {
+        "word_id": 74,
+        "word": "ينظر",
+        "target_sense": 303054957
+      },
+      {
+        "word_id": 75,
+        "word": "إلى",
+        "target_sense": 303002297
+      },
+      {
+        "word_id": 76,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 77,
+        "word": "مشكلة",
+        "target_sense": 303029717
+      },
+      {
+        "word_id": 78,
+        "word": "تتعلق",
+        "target_sense": 303037330
+      },
+      {
+        "word_id": 79,
+        "word": "بمكافحة",
+        "target_sense": 303047659
+      },
+      {
+        "word_id": 80,
+        "word": "الإرهاب",
+        "target_sense": 303022357
+      },
+      {
+        "word_id": 81,
+        "word": "وبالتالي",
+        "target_sense": 303006037
+      },
+      {
+        "word_id": 82,
+        "word": "بحاجة",
+        "target_sense": 303012893
+      },
+      {
+        "word_id": 83,
+        "word": "إلى",
+        "target_sense": 303002297
+      },
+      {
+        "word_id": 84,
+        "word": "حل",
+        "target_sense": 303012198
+      }
+    ]
+  },
+  {
+    "sentence_id": 5,
+    "sentence": "أما مؤخراً ، فينظر إليه ضمن سياق الجهود الأمريكية لمواجهة إيران .",
+    "words": [
+      {
+        "word_id": 85,
+        "word": "أما",
+        "target_sense": 303001663
+      },
+      {
+        "word_id": 86,
+        "word": "مؤخراً",
+        "target_sense": 303000533
+      },
+      {
+        "word_id": 87,
+        "word": "ضمن",
+        "target_sense": 303033370
+      },
+      {
+        "word_id": 88,
+        "word": "سياق",
+        "target_sense": 303027249
+      },
+      {
+        "word_id": 89,
+        "word": "الجهود",
+        "target_sense": 303008699
+      },
+      {
+        "word_id": 90,
+        "word": "الأمريكية",
+        "target_sense": 302004373
+      },
+      {
+        "word_id": 91,
+        "word": "لمواجهة",
+        "target_sense": 302057194
+      },
+      {
+        "word_id": 92,
+        "word": "إيران",
+        "target_sense": 5332605
+      }
+    ]
+  },
+  {
+    "sentence_id": 6,
+    "sentence": "ولكن في كلتا الحالتين ، كانت الولايات المتحدة والسعودية تسيران بإيقاع موحد .",
+    "words": [
+      {
+        "word_id": 93,
+        "word": "ولكن",
+        "target_sense": 303048729
+      },
+      {
+        "word_id": 94,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 95,
+        "word": "كلتا",
+        "target_sense": 303047979
+      },
+      {
+        "word_id": 96,
+        "word": "الحالتين",
+        "target_sense": 303013164
+      },
+      {
+        "word_id": 97,
+        "word": "كانت",
+        "target_sense": 303048415
+      },
+      {
+        "word_id": 98,
+        "word": "والسعودية",
+        "target_sense": 302032972
+      },
+      {
+        "word_id": 99,
+        "word": "تسيران",
+        "target_sense": 303027468
+      },
+      {
+        "word_id": 100,
+        "word": "موحد",
+        "target_sense": 303059985
+      }
+    ]
+  },
+  {
+    "sentence_id": 7,
+    "sentence": "في أوائل العام 2000 ، كانت المملكة العربية السعودية تواجه مشكلتها مع تنظيم القاعدة .",
+    "words": [
+      {
+        "word_id": 101,
+        "word": "العام",
+        "target_sense": 303038319
+      },
+      {
+        "word_id": 102,
+        "word": "كانت",
+        "target_sense": 303048415
+      },
+      {
+        "word_id": 103,
+        "word": "تواجه",
+        "target_sense": 303059879
+      },
+      {
+        "word_id": 104,
+        "word": "مشكلتها",
+        "target_sense": 303029717
+      },
+      {
+        "word_id": 105,
+        "word": "مع",
+        "target_sense": 303051794
+      },
+      {
+        "word_id": 106,
+        "word": "تنظيم",
+        "target_sense": 303054998
+      },
+      {
+        "word_id": 107,
+        "word": "القاعدة",
+        "target_sense": 303045166
+      }
+    ]
+  },
+  {
+    "sentence_id": 8,
+    "sentence": "وخلال السنوات القليلة الماضية ، اعتبرت المملكة السعودية إيران منافسها الإقليمي الرئيسي ، وغالبًا ما شجعت الولايات المتحدة على اتخاذ موقف أكثر تشددًا تجاه إيران .",
+    "words": [
+      {
+        "word_id": 108,
+        "word": "وخلال",
+        "target_sense": 303015805
+      },
+      {
+        "word_id": 109,
+        "word": "السنوات",
+        "target_sense": 303026834
+      },
+      {
+        "word_id": 110,
+        "word": "القليلة",
+        "target_sense": 303045500
+      },
+      {
+        "word_id": 111,
+        "word": "الماضية",
+        "target_sense": 303051729
+      },
+      {
+        "word_id": 112,
+        "word": "اعتبرت",
+        "target_sense": 303035226
+      },
+      {
+        "word_id": 113,
+        "word": "المملكة",
+        "target_sense": 303052146
+      },
+      {
+        "word_id": 114,
+        "word": "السعودية",
+        "target_sense": 302032971
+      },
+      {
+        "word_id": 115,
+        "word": "إيران",
+        "target_sense": 5332605
+      },
+      {
+        "word_id": 116,
+        "word": "منافسها",
+        "target_sense": 302056453
+      },
+      {
+        "word_id": 117,
+        "word": "الإقليمي",
+        "target_sense": 303045523
+      },
+      {
+        "word_id": 118,
+        "word": "الرئيسي",
+        "target_sense": 303019491
+      },
+      {
+        "word_id": 119,
+        "word": "وغالبًا",
+        "target_sense": 303039656
+      },
+      {
+        "word_id": 120,
+        "word": "ما",
+        "target_sense": 303050634
+      },
+      {
+        "word_id": 121,
+        "word": "شجعت",
+        "target_sense": 303027999
+      },
+      {
+        "word_id": 122,
+        "word": "على",
+        "target_sense": 303037564
+      },
+      {
+        "word_id": 123,
+        "word": "اتخاذ",
+        "target_sense": 302006057
+      },
+      {
+        "word_id": 124,
+        "word": "موقف",
+        "target_sense": 303062029
+      },
+      {
+        "word_id": 125,
+        "word": "أكثر",
+        "target_sense": 303046822
+      },
+      {
+        "word_id": 126,
+        "word": "تشددًا",
+        "target_sense": 302014069
+      },
+      {
+        "word_id": 127,
+        "word": "تجاه",
+        "target_sense": 303059857
+      },
+      {
+        "word_id": 128,
+        "word": "إيران",
+        "target_sense": 5332605
+      }
+    ]
+  },
+  {
+    "sentence_id": 9,
+    "sentence": "إن المشكلة في رؤية بلد ، أي بلد ، من خلال عدسة واحدة – سواء من خلال منظور شريك إقليمي أو ضمن سياق تحد للأمن القومي – هي أن ذلك يميل إلى تشويه الواقع على الأرض ، وبالتالي إلى التضحية بالفروق الدقيقة مقابل سردية مبسطة .",
+    "words": [
+      {
+        "word_id": 129,
+        "word": "إن",
+        "target_sense": 303002324
+      },
+      {
+        "word_id": 130,
+        "word": "المشكلة",
+        "target_sense": 303029717
+      },
+      {
+        "word_id": 131,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 132,
+        "word": "رؤية",
+        "target_sense": 303019566
+      },
+      {
+        "word_id": 133,
+        "word": "بلد",
+        "target_sense": 303004580
+      },
+      {
+        "word_id": 134,
+        "word": "أي",
+        "target_sense": 303002185
+      },
+      {
+        "word_id": 135,
+        "word": "بلد",
+        "target_sense": 303004580
+      },
+      {
+        "word_id": 136,
+        "word": "عدسة",
+        "target_sense": 303035631
+      },
+      {
+        "word_id": 137,
+        "word": "واحدة",
+        "target_sense": 303059967
+      },
+      {
+        "word_id": 138,
+        "word": "سواء",
+        "target_sense": 303027348
+      },
+      {
+        "word_id": 139,
+        "word": "منظور",
+        "target_sense": 303054952
+      },
+      {
+        "word_id": 140,
+        "word": "شريك",
+        "target_sense": 303028772
+      },
+      {
+        "word_id": 141,
+        "word": "إقليمي",
+        "target_sense": 303045523
+      },
+      {
+        "word_id": 142,
+        "word": "أو",
+        "target_sense": 303001976
+      },
+      {
+        "word_id": 143,
+        "word": "ضمن",
+        "target_sense": 303033370
+      },
+      {
+        "word_id": 144,
+        "word": "سياق",
+        "target_sense": 303027249
+      },
+      {
+        "word_id": 145,
+        "word": "تحد",
+        "target_sense": 303009931
+      },
+      {
+        "word_id": 146,
+        "word": "للأمن",
+        "target_sense": 303001693
+      },
+      {
+        "word_id": 147,
+        "word": "القومي",
+        "target_sense": 303046111
+      },
+      {
+        "word_id": 148,
+        "word": "هي",
+        "target_sense": 303059145
+      },
+      {
+        "word_id": 149,
+        "word": "أن",
+        "target_sense": 303001911
+      },
+      {
+        "word_id": 150,
+        "word": "ذلك",
+        "target_sense": 303018683
+      },
+      {
+        "word_id": 151,
+        "word": "يميل",
+        "target_sense": 303052760
+      },
+      {
+        "word_id": 152,
+        "word": "إلى",
+        "target_sense": 303002297
+      },
+      {
+        "word_id": 153,
+        "word": "تشويه",
+        "target_sense": 302014263
+      },
+      {
+        "word_id": 154,
+        "word": "الواقع",
+        "target_sense": 303061960
+      },
+      {
+        "word_id": 155,
+        "word": "وبالتالي",
+        "target_sense": 303006037
+      },
+      {
+        "word_id": 156,
+        "word": "إلى",
+        "target_sense": 303002297
+      },
+      {
+        "word_id": 157,
+        "word": "التضحية",
+        "target_sense": 303032817
+      },
+      {
+        "word_id": 158,
+        "word": "بالفروق",
+        "target_sense": 303041352
+      },
+      {
+        "word_id": 159,
+        "word": "الدقيقة",
+        "target_sense": 303017489
+      },
+      {
+        "word_id": 160,
+        "word": "مقابل",
+        "target_sense": 303043283
+      },
+      {
+        "word_id": 161,
+        "word": "سردية",
+        "target_sense": 303025132
+      },
+      {
+        "word_id": 162,
+        "word": "مبسطة",
+        "target_sense": 302050732
+      }
+    ]
+  },
+  {
+    "sentence_id": 10,
+    "sentence": "وهذا يؤدي إلى أخطاء في التحليل ، ونتيجة له إلى خيارات سياسية رديئة .",
+    "words": [
+      {
+        "word_id": 163,
+        "word": "وهذا",
+        "target_sense": 303018630
+      },
+      {
+        "word_id": 164,
+        "word": "أخطاء",
+        "target_sense": 303014951
+      },
+      {
+        "word_id": 165,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 166,
+        "word": "التحليل",
+        "target_sense": 303012162
+      },
+      {
+        "word_id": 167,
+        "word": "إلى",
+        "target_sense": 303002297
+      },
+      {
+        "word_id": 168,
+        "word": "خيارات",
+        "target_sense": 303016336
+      },
+      {
+        "word_id": 169,
+        "word": "سياسية",
+        "target_sense": 303027127
+      },
+      {
+        "word_id": 170,
+        "word": "رديئة",
+        "target_sense": 303020536
+      }
+    ]
+  },
+  {
+    "sentence_id": 11,
+    "sentence": "على سبيل المثال ، رؤية اليمن فقط من خلال عدسة مكافحة الإرهاب ، تؤدي إلى استنتاج مفاده أن أي شخص ملتح يحمل السلاح ويتحدث عن الله هو عضو في تنظيم القاعدة في شبه الجزيرة العربية أو تنظيم الدولة الإسلامية .",
+    "words": [
+      {
+        "word_id": 171,
+        "word": "رؤية",
+        "target_sense": 303019566
+      },
+      {
+        "word_id": 172,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 173,
+        "word": "فقط",
+        "target_sense": 303042213
+      },
+      {
+        "word_id": 174,
+        "word": "عدسة",
+        "target_sense": 303035631
+      },
+      {
+        "word_id": 175,
+        "word": "مكافحة",
+        "target_sense": 303047659
+      },
+      {
+        "word_id": 176,
+        "word": "الإرهاب",
+        "target_sense": 303022357
+      },
+      {
+        "word_id": 177,
+        "word": "استنتاج",
+        "target_sense": 303053130
+      },
+      {
+        "word_id": 178,
+        "word": "مفاده",
+        "target_sense": 303042945
+      },
+      {
+        "word_id": 179,
+        "word": "أن",
+        "target_sense": 303001911
+      },
+      {
+        "word_id": 180,
+        "word": "ملتح",
+        "target_sense": 302055983
+      },
+      {
+        "word_id": 181,
+        "word": "يحمل",
+        "target_sense": 303012518
+      },
+      {
+        "word_id": 182,
+        "word": "السلاح",
+        "target_sense": 303026012
+      },
+      {
+        "word_id": 183,
+        "word": "ويتحدث",
+        "target_sense": 303009738
+      },
+      {
+        "word_id": 184,
+        "word": "عن",
+        "target_sense": 303037865
+      },
+      {
+        "word_id": 185,
+        "word": "الله",
+        "target_sense": 303001492
+      },
+      {
+        "word_id": 186,
+        "word": "هو",
+        "target_sense": 303058905
+      },
+      {
+        "word_id": 187,
+        "word": "عضو",
+        "target_sense": 303036744
+      },
+      {
+        "word_id": 188,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 189,
+        "word": "تنظيم",
+        "target_sense": 303054998
+      },
+      {
+        "word_id": 190,
+        "word": "القاعدة",
+        "target_sense": 303045166
+      },
+      {
+        "word_id": 191,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 192,
+        "word": "العربية",
+        "target_sense": 303035886
+      },
+      {
+        "word_id": 193,
+        "word": "أو",
+        "target_sense": 303001976
+      },
+      {
+        "word_id": 194,
+        "word": "تنظيم",
+        "target_sense": 303054998
+      },
+      {
+        "word_id": 195,
+        "word": "الدولة",
+        "target_sense": 303018351
+      },
+      {
+        "word_id": 196,
+        "word": "الإسلامية",
+        "target_sense": 2023228039
+      }
+    ]
+  },
+  {
+    "sentence_id": 12,
+    "sentence": "لكن هذا ليس هو الحال في اليمن ، والاعتقاد عكس ذلك يؤدي إلى هجمات درونز خاطئة وعقوبات أسيء تطبيقها .",
+    "words": [
+      {
+        "word_id": 197,
+        "word": "لكن",
+        "target_sense": 303048728
+      },
+      {
+        "word_id": 198,
+        "word": "هذا",
+        "target_sense": 303018630
+      },
+      {
+        "word_id": 199,
+        "word": "ليس",
+        "target_sense": 303050523
+      },
+      {
+        "word_id": 200,
+        "word": "هو",
+        "target_sense": 303058905
+      },
+      {
+        "word_id": 201,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 202,
+        "word": "والاعتقاد",
+        "target_sense": 303037049
+      },
+      {
+        "word_id": 203,
+        "word": "عكس",
+        "target_sense": 303037265
+      },
+      {
+        "word_id": 204,
+        "word": "ذلك",
+        "target_sense": 303018683
+      },
+      {
+        "word_id": 205,
+        "word": "هجمات",
+        "target_sense": 303057556
+      },
+      {
+        "word_id": 206,
+        "word": "درونز",
+        "target_sense": 2023228091
+      },
+      {
+        "word_id": 207,
+        "word": "خاطئة",
+        "target_sense": 303014954
+      },
+      {
+        "word_id": 208,
+        "word": "وعقوبات",
+        "target_sense": 303037032
+      }
+    ]
+  },
+  {
+    "sentence_id": 13,
+    "sentence": "كما أن النظر إلى البلد باعتباره ساحة لمواجهة إيران في المقام الأول ، يؤدي إلى الاعتقاد بأن الحوثيين ليسوا سوى وكيل إيراني بدلاً من كونهم مجموعة محلية لها تاريخ محلي ومصالح محلية ، \" وأما بالنسبة لصانعي السياسات الأميركيين ، فلعل الأهم هنا هو أنه إذا نظرت الولايات المتحدة إلى اليمن كملحق لعلاقتها مع السعودية وحسب ، فإنها تضع نفسها أمام مجازفة حقيقية وهي دعم أهداف السياسات السعودية بدلاً من دعم أهداف السياسات الامريكية .",
+    "words": [
+      {
+        "word_id": 209,
+        "word": "البلد",
+        "target_sense": 303004580
+      },
+      {
+        "word_id": 210,
+        "word": "باعتباره",
+        "target_sense": 303035219
+      },
+      {
+        "word_id": 211,
+        "word": "ساحة",
+        "target_sense": 303027006
+      },
+      {
+        "word_id": 212,
+        "word": "لمواجهة",
+        "target_sense": 302057194
+      },
+      {
+        "word_id": 213,
+        "word": "إيران",
+        "target_sense": 5332605
+      },
+      {
+        "word_id": 214,
+        "word": "الاعتقاد",
+        "target_sense": 303037049
+      },
+      {
+        "word_id": 215,
+        "word": "ليسوا",
+        "target_sense": 303050523
+      },
+      {
+        "word_id": 216,
+        "word": "سوى",
+        "target_sense": 303027360
+      },
+      {
+        "word_id": 217,
+        "word": "وكيل",
+        "target_sense": 303062170
+      },
+      {
+        "word_id": 218,
+        "word": "إيراني",
+        "target_sense": 52415
+      },
+      {
+        "word_id": 219,
+        "word": "كونهم",
+        "target_sense": 302048993
+      },
+      {
+        "word_id": 220,
+        "word": "مجموعة",
+        "target_sense": 303008381
+      },
+      {
+        "word_id": 221,
+        "word": "محلية",
+        "target_sense": 303012224
+      },
+      {
+        "word_id": 222,
+        "word": "لها",
+        "target_sense": 303048638
+      },
+      {
+        "word_id": 223,
+        "word": "تاريخ",
+        "target_sense": 303000807
+      },
+      {
+        "word_id": 224,
+        "word": "محلي",
+        "target_sense": 303012224
+      },
+      {
+        "word_id": 225,
+        "word": "ومصالح",
+        "target_sense": 303031907
+      },
+      {
+        "word_id": 226,
+        "word": "محلية",
+        "target_sense": 303012224
+      },
+      {
+        "word_id": 227,
+        "word": "وأما",
+        "target_sense": 303001663
+      },
+      {
+        "word_id": 228,
+        "word": "بالنسبة",
+        "target_sense": 303054093
+      },
+      {
+        "word_id": 229,
+        "word": "الأميركيين",
+        "target_sense": 302004373
+      },
+      {
+        "word_id": 230,
+        "word": "فلعل",
+        "target_sense": 303049536
+      },
+      {
+        "word_id": 231,
+        "word": "الأهم",
+        "target_sense": 303058769
+      },
+      {
+        "word_id": 232,
+        "word": "هنا",
+        "target_sense": 303058846
+      },
+      {
+        "word_id": 233,
+        "word": "هو",
+        "target_sense": 303058905
+      },
+      {
+        "word_id": 234,
+        "word": "نظرت",
+        "target_sense": 303054957
+      },
+      {
+        "word_id": 235,
+        "word": "إلى",
+        "target_sense": 303002297
+      },
+      {
+        "word_id": 236,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 237,
+        "word": "كملحق",
+        "target_sense": 303049085
+      },
+      {
+        "word_id": 238,
+        "word": "لعلاقتها",
+        "target_sense": 303037337
+      },
+      {
+        "word_id": 239,
+        "word": "مع",
+        "target_sense": 303051794
+      },
+      {
+        "word_id": 240,
+        "word": "السعودية",
+        "target_sense": 302032971
+      },
+      {
+        "word_id": 241,
+        "word": "وحسب",
+        "target_sense": 303010701
+      },
+      {
+        "word_id": 242,
+        "word": "فإنها",
+        "target_sense": 303002324
+      },
+      {
+        "word_id": 243,
+        "word": "تضع",
+        "target_sense": 303061268
+      },
+      {
+        "word_id": 244,
+        "word": "نفسها",
+        "target_sense": 303055550
+      },
+      {
+        "word_id": 245,
+        "word": "أمام",
+        "target_sense": 303001614
+      },
+      {
+        "word_id": 246,
+        "word": "مجازفة",
+        "target_sense": 302051469
+      },
+      {
+        "word_id": 247,
+        "word": "حقيقية",
+        "target_sense": 303011736
+      },
+      {
+        "word_id": 248,
+        "word": "وهي",
+        "target_sense": 303059145
+      },
+      {
+        "word_id": 249,
+        "word": "دعم",
+        "target_sense": 303017216
+      },
+      {
+        "word_id": 250,
+        "word": "السعودية",
+        "target_sense": 302032971
+      },
+      {
+        "word_id": 251,
+        "word": "دعم",
+        "target_sense": 303017216
+      },
+      {
+        "word_id": 252,
+        "word": "الامريكية",
+        "target_sense": 302004373
+      }
+    ]
+  },
+  {
+    "sentence_id": 14,
+    "sentence": "وبالرغم من أنهما تتشاركان مصالح متداخلة في الشرق الأوسط ، \" فإن الولايات المتحدة والسعودية لا تتشاركا مجموعة مشتركة من القيم أو الأهداف الأساسية .",
+    "words": [
+      {
+        "word_id": 253,
+        "word": "أنهما",
+        "target_sense": 303001911
+      },
+      {
+        "word_id": 254,
+        "word": "تتشاركان",
+        "target_sense": 303028747
+      },
+      {
+        "word_id": 255,
+        "word": "مصالح",
+        "target_sense": 303031907
+      },
+      {
+        "word_id": 256,
+        "word": "متداخلة",
+        "target_sense": 302050959
+      },
+      {
+        "word_id": 257,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 258,
+        "word": "فإن",
+        "target_sense": 303002324
+      },
+      {
+        "word_id": 259,
+        "word": "والسعودية",
+        "target_sense": 302032972
+      },
+      {
+        "word_id": 260,
+        "word": "لا",
+        "target_sense": 303048718
+      },
+      {
+        "word_id": 261,
+        "word": "تتشاركا",
+        "target_sense": 303028747
+      },
+      {
+        "word_id": 262,
+        "word": "من",
+        "target_sense": 303052204
+      },
+      {
+        "word_id": 263,
+        "word": "القيم",
+        "target_sense": 303046141
+      },
+      {
+        "word_id": 264,
+        "word": "أو",
+        "target_sense": 303001976
+      },
+      {
+        "word_id": 265,
+        "word": "الأهداف",
+        "target_sense": 303057723
+      },
+      {
+        "word_id": 266,
+        "word": "الأساسية",
+        "target_sense": 303001003
+      }
+    ]
+  },
+  {
+    "sentence_id": 15,
+    "sentence": "انهارت الدولة اليمنية وتفكك البلد بعد قرابة خمس سنوات من الحرب ، \" وبالتالي فإن عودة اليمن كدولة واحدة غير مرجح ، \" وبدلاً من التعامل مع يمن واحد في المستقبل ، سوف يتعين على الولايات المتحدة التعامل مع أكثر من يمن واحد .",
+    "words": [
+      {
+        "word_id": 267,
+        "word": "انهارت",
+        "target_sense": 303058952
+      },
+      {
+        "word_id": 268,
+        "word": "الدولة",
+        "target_sense": 303018351
+      },
+      {
+        "word_id": 269,
+        "word": "اليمنية",
+        "target_sense": 302064483
+      },
+      {
+        "word_id": 270,
+        "word": "وتفكك",
+        "target_sense": 303042298
+      },
+      {
+        "word_id": 271,
+        "word": "البلد",
+        "target_sense": 303004580
+      },
+      {
+        "word_id": 272,
+        "word": "بعد",
+        "target_sense": 303004261
+      },
+      {
+        "word_id": 273,
+        "word": "قرابة",
+        "target_sense": 303043810
+      },
+      {
+        "word_id": 274,
+        "word": "من",
+        "target_sense": 303052204
+      },
+      {
+        "word_id": 275,
+        "word": "الحرب",
+        "target_sense": 303010021
+      },
+      {
+        "word_id": 276,
+        "word": "وبالتالي",
+        "target_sense": 303006037
+      },
+      {
+        "word_id": 277,
+        "word": "فإن",
+        "target_sense": 303002324
+      },
+      {
+        "word_id": 278,
+        "word": "عودة",
+        "target_sense": 303038128
+      },
+      {
+        "word_id": 279,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 280,
+        "word": "كدولة",
+        "target_sense": 303018351
+      },
+      {
+        "word_id": 281,
+        "word": "واحدة",
+        "target_sense": 303059967
+      },
+      {
+        "word_id": 282,
+        "word": "التعامل",
+        "target_sense": 302014826
+      },
+      {
+        "word_id": 283,
+        "word": "مع",
+        "target_sense": 303051794
+      },
+      {
+        "word_id": 284,
+        "word": "يمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 285,
+        "word": "واحد",
+        "target_sense": 303059967
+      },
+      {
+        "word_id": 286,
+        "word": "سوف",
+        "target_sense": 303027191
+      },
+      {
+        "word_id": 287,
+        "word": "يتعين",
+        "target_sense": 303038466
+      },
+      {
+        "word_id": 288,
+        "word": "على",
+        "target_sense": 303037564
+      },
+      {
+        "word_id": 289,
+        "word": "التعامل",
+        "target_sense": 302014826
+      },
+      {
+        "word_id": 290,
+        "word": "مع",
+        "target_sense": 303051794
+      },
+      {
+        "word_id": 291,
+        "word": "يمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 292,
+        "word": "واحد",
+        "target_sense": 303059967
+      }
+    ]
+  },
+  {
+    "sentence_id": 16,
+    "sentence": "واقع فوضوي كهذا سيجعل السياسة أكثر صعوبة ، وبالتالي فإن فهماً مفصلاً لما يحدث على الأرض يصبح مهما أكثر من أي وقت مضى .",
+    "words": [
+      {
+        "word_id": 293,
+        "word": "واقع",
+        "target_sense": 303061960
+      },
+      {
+        "word_id": 294,
+        "word": "فوضوي",
+        "target_sense": 303042794
+      },
+      {
+        "word_id": 295,
+        "word": "كهذا",
+        "target_sense": 303018630
+      },
+      {
+        "word_id": 296,
+        "word": "سيجعل",
+        "target_sense": 303007944
+      },
+      {
+        "word_id": 297,
+        "word": "السياسة",
+        "target_sense": 303027139
+      },
+      {
+        "word_id": 298,
+        "word": "أكثر",
+        "target_sense": 303046822
+      },
+      {
+        "word_id": 299,
+        "word": "صعوبة",
+        "target_sense": 303031405
+      },
+      {
+        "word_id": 300,
+        "word": "وبالتالي",
+        "target_sense": 303006037
+      },
+      {
+        "word_id": 301,
+        "word": "فإن",
+        "target_sense": 303002324
+      },
+      {
+        "word_id": 302,
+        "word": "فهماً",
+        "target_sense": 303042698
+      },
+      {
+        "word_id": 303,
+        "word": "مفصلاً",
+        "target_sense": 303041772
+      },
+      {
+        "word_id": 304,
+        "word": "لما",
+        "target_sense": 303050635
+      },
+      {
+        "word_id": 305,
+        "word": "يحدث",
+        "target_sense": 303009763
+      },
+      {
+        "word_id": 306,
+        "word": "يصبح",
+        "target_sense": 303030569
+      },
+      {
+        "word_id": 307,
+        "word": "مهما",
+        "target_sense": 303058781
+      },
+      {
+        "word_id": 308,
+        "word": "مضى",
+        "target_sense": 303051732
+      }
+    ]
+  },
+  {
+    "sentence_id": 17,
+    "sentence": "ولكن ليس من الممكن تحقيق أي من هذين الأمرين من الرياض – حيث تتواجد السفارة الأمريكية في اليمن وما تبقى من الحكومة اليمنية المعترف بها دولياً خلال معظم السنوات الخمس الماضية .",
+    "words": [
+      {
+        "word_id": 309,
+        "word": "ولكن",
+        "target_sense": 303048729
+      },
+      {
+        "word_id": 310,
+        "word": "ليس",
+        "target_sense": 303050523
+      },
+      {
+        "word_id": 311,
+        "word": "أي",
+        "target_sense": 303002185
+      },
+      {
+        "word_id": 312,
+        "word": "من",
+        "target_sense": 303052204
+      },
+      {
+        "word_id": 313,
+        "word": "هذين",
+        "target_sense": 303057236
+      },
+      {
+        "word_id": 314,
+        "word": "الأمرين",
+        "target_sense": 303001558
+      },
+      {
+        "word_id": 315,
+        "word": "من",
+        "target_sense": 303052204
+      },
+      {
+        "word_id": 316,
+        "word": "حيث",
+        "target_sense": 303013285
+      },
+      {
+        "word_id": 317,
+        "word": "تتواجد",
+        "target_sense": 303059728
+      },
+      {
+        "word_id": 318,
+        "word": "السفارة",
+        "target_sense": 302033000
+      },
+      {
+        "word_id": 319,
+        "word": "الأمريكية",
+        "target_sense": 302004373
+      },
+      {
+        "word_id": 320,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 321,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 322,
+        "word": "وما",
+        "target_sense": 303050635
+      },
+      {
+        "word_id": 323,
+        "word": "تبقى",
+        "target_sense": 303004441
+      },
+      {
+        "word_id": 324,
+        "word": "من",
+        "target_sense": 303052204
+      },
+      {
+        "word_id": 325,
+        "word": "الحكومة",
+        "target_sense": 303011903
+      },
+      {
+        "word_id": 326,
+        "word": "اليمنية",
+        "target_sense": 302064483
+      },
+      {
+        "word_id": 327,
+        "word": "دولياً",
+        "target_sense": 303018368
+      },
+      {
+        "word_id": 328,
+        "word": "خلال",
+        "target_sense": 303015805
+      },
+      {
+        "word_id": 329,
+        "word": "معظم",
+        "target_sense": 303036911
+      },
+      {
+        "word_id": 330,
+        "word": "السنوات",
+        "target_sense": 303026834
+      },
+      {
+        "word_id": 331,
+        "word": "الخمس",
+        "target_sense": 302025410
+      },
+      {
+        "word_id": 332,
+        "word": "الماضية",
+        "target_sense": 303051729
+      }
+    ]
+  },
+  {
+    "sentence_id": 18,
+    "sentence": "إن الاعتماد على السعودية كدولة تلعب دور المرشد السياسي حول ما يتعلق بجارتها الجنوبية لن يؤدي سوى إلى فهم مشوه لما يحدث في اليمن ، \" وبالتالي يتعين على الولايات المتحدة أن ترى اليمن بوضوح ومن تلقاء نفسها وذلك لأسباب كثيرة تتعدد ما بين مكافحة الإرهاب والأمن القومي إلى الاستقرار الإقليمي والأمن البحري .",
+    "words": [
+      {
+        "word_id": 333,
+        "word": "إن",
+        "target_sense": 303002324
+      },
+      {
+        "word_id": 334,
+        "word": "الاعتماد",
+        "target_sense": 303037579
+      },
+      {
+        "word_id": 335,
+        "word": "على",
+        "target_sense": 303037564
+      },
+      {
+        "word_id": 336,
+        "word": "السعودية",
+        "target_sense": 302032972
+      },
+      {
+        "word_id": 337,
+        "word": "كدولة",
+        "target_sense": 303018351
+      },
+      {
+        "word_id": 338,
+        "word": "المرشد",
+        "target_sense": 303021036
+      },
+      {
+        "word_id": 339,
+        "word": "السياسي",
+        "target_sense": 303027127
+      },
+      {
+        "word_id": 340,
+        "word": "حول",
+        "target_sense": 303013206
+      },
+      {
+        "word_id": 341,
+        "word": "بجارتها",
+        "target_sense": 303008913
+      },
+      {
+        "word_id": 342,
+        "word": "لن",
+        "target_sense": 303050124
+      },
+      {
+        "word_id": 343,
+        "word": "يؤدي",
+        "target_sense": 303000666
+      },
+      {
+        "word_id": 344,
+        "word": "سوى",
+        "target_sense": 303027360
+      },
+      {
+        "word_id": 345,
+        "word": "إلى",
+        "target_sense": 303002297
+      },
+      {
+        "word_id": 346,
+        "word": "فهم",
+        "target_sense": 303042698
+      },
+      {
+        "word_id": 347,
+        "word": "مشوه",
+        "target_sense": 302053973
+      },
+      {
+        "word_id": 348,
+        "word": "لما",
+        "target_sense": 303050635
+      },
+      {
+        "word_id": 349,
+        "word": "يحدث",
+        "target_sense": 303009763
+      },
+      {
+        "word_id": 350,
+        "word": "في",
+        "target_sense": 303042883
+      },
+      {
+        "word_id": 351,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 352,
+        "word": "وبالتالي",
+        "target_sense": 303006037
+      },
+      {
+        "word_id": 353,
+        "word": "يتعين",
+        "target_sense": 303038466
+      },
+      {
+        "word_id": 354,
+        "word": "على",
+        "target_sense": 303037564
+      },
+      {
+        "word_id": 355,
+        "word": "أن",
+        "target_sense": 303001738
+      },
+      {
+        "word_id": 356,
+        "word": "ترى",
+        "target_sense": 303019561
+      },
+      {
+        "word_id": 357,
+        "word": "اليمن",
+        "target_sense": 302064473
+      },
+      {
+        "word_id": 358,
+        "word": "بوضوح",
+        "target_sense": 303061222
+      },
+      {
+        "word_id": 359,
+        "word": "وذلك",
+        "target_sense": 303018683
+      },
+      {
+        "word_id": 360,
+        "word": "لأسباب",
+        "target_sense": 303024291
+      },
+      {
+        "word_id": 361,
+        "word": "كثيرة",
+        "target_sense": 303046840
+      },
+      {
+        "word_id": 362,
+        "word": "تتعدد",
+        "target_sense": 303035578
+      },
+      {
+        "word_id": 363,
+        "word": "مكافحة",
+        "target_sense": 303047659
+      },
+      {
+        "word_id": 364,
+        "word": "الإرهاب",
+        "target_sense": 303022357
+      },
+      {
+        "word_id": 365,
+        "word": "والأمن",
+        "target_sense": 303001693
+      },
+      {
+        "word_id": 366,
+        "word": "الاستقرار",
+        "target_sense": 302007468
+      },
+      {
+        "word_id": 367,
+        "word": "الإقليمي",
+        "target_sense": 303045523
+      },
+      {
+        "word_id": 368,
+        "word": "والأمن",
+        "target_sense": 303001693
+      },
+      {
+        "word_id": 369,
+        "word": "البحري",
+        "target_sense": 303002698
+      }
+    ]
+  }
+]
